@@ -14,7 +14,7 @@ const ExperienceSection = () => {
 		{
 			role: 'SmartBudget',
 			company: 'Project',
-			highlights: ' secure finance‑tracker web app that syncs directly with your bank accounts, auto‑categorizes every transaction, visualizes spending trends, and sends real‑time budget alerts—so you always know where your money’s going and what you can save.',
+			highlights: ' secure finance‑tracker web app that syncs directly with your bank accounts, auto‑categorizes every transaction, visualizes spending trends, and sends real‑time budget alerts, so you always know where your money’s going and what you can save.',
 		},
 		{
 			role: 'PomoWork',
